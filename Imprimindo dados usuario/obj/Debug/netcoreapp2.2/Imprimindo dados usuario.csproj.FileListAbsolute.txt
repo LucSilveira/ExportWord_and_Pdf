@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\bin\Debug\netcoreapp2.2\Imprimindo dados usuario.deps.json
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\bin\Debug\netcoreapp2.2\Imprimindo dados usuario.runtimeconfig.json
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\bin\Debug\netcoreapp2.2\Imprimindo dados usuario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\bin\Debug\netcoreapp2.2\Imprimindo dados usuario.dll
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\bin\Debug\netcoreapp2.2\Imprimindo dados usuario.pdb
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\obj\Debug\netcoreapp2.2\Imprimindo dados usuario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\obj\Debug\netcoreapp2.2\Imprimindo dados usuario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\obj\Debug\netcoreapp2.2\Imprimindo dados usuario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\obj\Debug\netcoreapp2.2\Imprimindo dados usuario.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\obj\Debug\netcoreapp2.2\Imprimindo dados usuario.dll
+C:\Users\fic\Desktop\ExportWord_and_Pdf\Imprimindo dados usuario\obj\Debug\netcoreapp2.2\Imprimindo dados usuario.pdb
